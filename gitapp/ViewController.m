@@ -17,7 +17,7 @@
 - (void)viewDidLoad {
 	[super viewDidLoad];
 	//my neww app repositary
-	int c =1;
+	int c =13;
 	NSLog(@"pint repo");
 	NSLog(@"%d",c);
 	
